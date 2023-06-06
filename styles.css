@@ -1,17 +1,8 @@
-
-
-
 html, body{
-    margin: 0;
-    padding: 0;
-    font-family: "Roboto-ligth", Arial, Helvetica, sans-serif;
-    background: red;
+    background-color: aqua;
 }
+
 
 #container{
-    max-width: 1200px;
     margin: 0 auto;
 }
-
-
-
